@@ -5,7 +5,7 @@
 </div>
 
 [![LÖVE Version](https://img.shields.io/badge/LÖVE2D-11.5-blue.svg?logo=love)](https://love2d.org/)
-![Version](https://img.shields.io/badge/version-1.3.0-brightgreen.svg)
+![Version](https://img.shields.io/badge/version-1.5.0-brightgreen.svg)
 ![Platforms](https://img.shields.io/badge/platforms-Windows-lightgrey.svg)
 ![PowerShell](https://img.shields.io/badge/powershell-%E2%89%A5%207.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-orange.svg)
